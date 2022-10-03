@@ -1,4 +1,4 @@
-# Home of iRasmussen
+Jens Rasmussen
 
 - I’m @iRasmussen, also known as jenr@kea.dk
 - I’m using this account mainly for teaching Python and MySQL at Københavns Erhvervsakademi, located in Copenhagen, Denmark, Europe.
