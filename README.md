@@ -1,5 +1,5 @@
 # Jens Rasmussen
-Lecturer at Erhvervsakademi København, EK (Business Academy Copenhagen).
+Lektor på Erhvervsakademi København, EK (Business Academy Copenhagen).
 
 ![Jens Rasmussen](./jenr2023.png)
 
