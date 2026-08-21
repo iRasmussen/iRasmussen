@@ -1,5 +1,5 @@
 # Jens Rasmussen
-Lektor på Erhvervsakademi København, EK (Business Academy Copenhagen).
+Lektor på [EK - Erhvervsakademi København](https://www.ek.dk/).
 
 ![Jens Rasmussen](./jenr2023.png)
 
@@ -19,4 +19,4 @@ Du finder mig på [LinkedIn](https://www.linkedin.com/in/fimano/).
 
 ---
 
-*Senest opdateret: 2026-08*
+*Senest opdateret i august 2026*
